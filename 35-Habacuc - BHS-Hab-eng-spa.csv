@@ -1,0 +1,898 @@
+word_ID,Book,ch_KJV,v_KJV,manuscript,lex_Hebrew,gloss_Eng,gloss_SPA
+302180,Hab,1,1,הַ,הַ,the,el
+302181,Hab,1,1,מַּשָּׂא֙,מַשָּׂא,utterance,declaración
+302182,Hab,1,1,אֲשֶׁ֣ר,אֲשֶׁר,[relative],[relativo]
+302183,Hab,1,1,חָזָ֔ה,חזה,see,ver
+302184,Hab,1,1,חֲבַקּ֖וּק,חֲבַקּוּק,Habakkuk,Habacuc
+302185,Hab,1,1,הַ,הַ,the,el
+302186,Hab,1,1,נָּבִֽיא׃,נָבִיא,prophet,profeta
+302187,Hab,1,2,עַד־,עַד,unto,hasta
+302188,Hab,1,2,אָ֧נָה,אָן,whither,Adónde
+302189,Hab,1,2,יְהוָ֛ה,יְהוָה,YHWH,YHWH
+302190,Hab,1,2,שִׁוַּ֖עְתִּי,שׁוע,cry,llorar
+302191,Hab,1,2,וְ,וְ,and,y
+302192,Hab,1,2,לֹ֣א,לֹא,not,no
+302193,Hab,1,2,תִשְׁמָ֑ע,שׁמע,hear,oír
+302194,Hab,1,2,אֶזְעַ֥ק,זעק,cry,llorar
+302195,Hab,1,2,אֵלֶ֛יךָ,אֶל,to,a
+302196,Hab,1,2,חָמָ֖ס,חָמָס,violence,violencia
+302197,Hab,1,2,וְ,וְ,and,y
+302198,Hab,1,2,לֹ֥א,לֹא,not,no
+302199,Hab,1,2,תֹושִֽׁיעַ׃,ישׁע,help,ayuda
+302200,Hab,1,3,לָ֣מָּה,לָמָה,why,por qué
+302201,Hab,1,3,תַרְאֵ֤נִי,ראה,see,ver
+302202,Hab,1,3,אָ֨וֶן֙,אָוֶן,wickedness,malicia
+302203,Hab,1,3,וְ,וְ,and,y
+302204,Hab,1,3,עָמָ֣ל,עָמָל,labour,labor
+302205,Hab,1,3,תַּבִּ֔יט,נבט,look at,mirar
+302206,Hab,1,3,וְ,וְ,and,y
+302207,Hab,1,3,שֹׁ֥ד,שֹׁד,violence,violencia
+302208,Hab,1,3,וְ,וְ,and,y
+302209,Hab,1,3,חָמָ֖ס,חָמָס,violence,violencia
+302210,Hab,1,3,לְ,לְ,to,a
+302211,Hab,1,3,נֶגְדִּ֑י,נֶגֶד,counterpart,contrapartida
+302212,Hab,1,3,וַ,וְ,and,y
+302213,Hab,1,3,יְהִ֧י,היה,be,ser
+302214,Hab,1,3,רִ֦יב,רִיב,law-case,la ley de los casos
+302215,Hab,1,3,וּ,וְ,and,y
+302216,Hab,1,3,מָדֹ֖ון,מָדֹון,contention,contención
+302217,Hab,1,3,יִשָּֽׂא׃,נשׂא,lift,ascensor
+302218,Hab,1,4,עַל־,עַל,upon,sobre
+302219,Hab,1,4,כֵּן֙,כֵּן,thus,así
+302220,Hab,1,4,תָּפ֣וּג,פוג,grow numb,se insensibiliza
+302221,Hab,1,4,תֹּורָ֔ה,תֹּורָה,instruction,instrucción
+302222,Hab,1,4,וְ,וְ,and,y
+302223,Hab,1,4,לֹֽא־,לֹא,not,no
+302224,Hab,1,4,יֵצֵ֥א,יצא,go out,fuera
+302225,Hab,1,4,לָ,לְ,to,a
+302226,Hab,1,4,נֶ֖צַח,נֵצַח,glory,gloria
+302227,Hab,1,4,מִשְׁפָּ֑ט,מִשְׁפָּט,justice,justicia
+302228,Hab,1,4,כִּ֤י,כִּי,that,ese
+302229,Hab,1,4,רָשָׁע֙,רָשָׁע,guilty,culpable
+302230,Hab,1,4,מַכְתִּ֣יר,כתר,surround,rodear
+302231,Hab,1,4,אֶת־,אֵת,[object marker],[Marcador de objeto]
+302232,Hab,1,4,הַ,הַ,the,el
+302233,Hab,1,4,צַּדִּ֔יק,צַדִּיק,just,sólo
+302234,Hab,1,4,עַל־,עַל,upon,sobre
+302235,Hab,1,4,כֵּ֛ן,כֵּן,thus,así
+302236,Hab,1,4,יֵצֵ֥א,יצא,go out,fuera
+302237,Hab,1,4,מִשְׁפָּ֖ט,מִשְׁפָּט,justice,justicia
+302238,Hab,1,4,מְעֻקָּֽל׃,עקל,crook,ladrón
+302239,Hab,1,5,רְא֤וּ,ראה,see,ver
+302240,Hab,1,5,בַ,בְּ,in,en
+302241,Hab,1,5,,הַ,the,el
+302242,Hab,1,5,גֹּויִם֙,גֹּוי,people,gente
+302243,Hab,1,5,וְֽ,וְ,and,y
+302244,Hab,1,5,הַבִּ֔יטוּ,נבט,look at,mirar
+302245,Hab,1,5,וְ,וְ,and,y
+302246,Hab,1,5,הִֽתַּמְּה֖וּ,תָּמַהּ,be astounded,ser sorprendido
+302247,Hab,1,5,תְּמָ֑הוּ,תָּמַהּ,be astounded,ser sorprendido
+302248,Hab,1,5,כִּי־,כִּי,that,ese
+302249,Hab,1,5,פֹ֨עַל֙,פֹּעַל,doing,obra
+302250,Hab,1,5,פֹּעֵ֣ל,פעל,make,hacer
+302251,Hab,1,5,בִּֽ,בְּ,in,en
+302252,Hab,1,5,ימֵיכֶ֔ם,יֹום,day,día
+302253,Hab,1,5,לֹ֥א,לֹא,not,no
+302254,Hab,1,5,תַאֲמִ֖ינוּ,אמן,be firm,Se firme
+302255,Hab,1,5,כִּ֥י,כִּי,that,ese
+302256,Hab,1,5,יְסֻפָּֽר׃,ספר,count,contar
+302257,Hab,1,6,כִּֽי־,כִּי,that,ese
+302258,Hab,1,6,הִנְנִ֤י,הִנֵּה,behold,Mirad
+302259,Hab,1,6,מֵקִים֙,קום,arise,surgir
+302260,Hab,1,6,אֶת־,אֵת,[object marker],[Marcador de objeto]
+302261,Hab,1,6,הַ,הַ,the,el
+302262,Hab,1,6,כַּשְׂדִּ֔ים,כַּשְׂדִּים,Chaldeans,caldeos
+302263,Hab,1,6,הַ,הַ,the,el
+302264,Hab,1,6,גֹּ֖וי,גֹּוי,people,gente
+302265,Hab,1,6,הַ,הַ,the,el
+302266,Hab,1,6,מַּ֣ר,מַר,bitter,amargo
+302267,Hab,1,6,וְ,וְ,and,y
+302268,Hab,1,6,הַ,הַ,the,el
+302269,Hab,1,6,נִּמְהָ֑ר,מהר,hasten,acelerar
+302270,Hab,1,6,הַֽ,הַ,the,el
+302271,Hab,1,6,הֹולֵךְ֙,הלך,walk,caminar
+302272,Hab,1,6,לְ,לְ,to,a
+302273,Hab,1,6,מֶרְחֲבֵי־,מֶרְחָב,wide place,gran lugar
+302274,Hab,1,6,אֶ֔רֶץ,אֶרֶץ,earth,tierra
+302275,Hab,1,6,לָ,לְ,to,a
+302276,Hab,1,6,רֶ֖שֶׁת,ירשׁ,trample down,hollarás
+302277,Hab,1,6,מִשְׁכָּנֹ֥ות,מִשְׁכָּן,dwelling-place,lugar de la vivienda
+302278,Hab,1,6,לֹּא־,לֹא,not,no
+302279,Hab,1,6,לֹֽו׃,לְ,to,a
+302280,Hab,1,7,אָיֹ֥ם,אָיֹם,frightful,espantoso
+302281,Hab,1,7,וְ,וְ,and,y
+302282,Hab,1,7,נֹורָ֖א,ירא,fear,miedo
+302283,Hab,1,7,ה֑וּא,הוּא,he,él
+302284,Hab,1,7,מִמֶּ֕נּוּ,מִן,from,de
+302285,Hab,1,7,מִשְׁפָּטֹ֥ו,מִשְׁפָּט,justice,justicia
+302286,Hab,1,7,וּ,וְ,and,y
+302287,Hab,1,7,שְׂאֵתֹ֖ו,שְׂאֵת,uprising,levantamiento
+302288,Hab,1,7,יֵצֵֽא׃,יצא,go out,fuera
+302289,Hab,1,8,וְ,וְ,and,y
+302290,Hab,1,8,קַלּ֨וּ,קלל,be slight,ser ligera
+302291,Hab,1,8,מִ,מִן,from,de
+302292,Hab,1,8,נְּמֵרִ֜ים,נָמֵר,leopard,leopardo
+302293,Hab,1,8,סוּסָ֗יו,סוּס,horse,caballo
+302294,Hab,1,8,וְ,וְ,and,y
+302295,Hab,1,8,חַדּוּ֙,חדד,be sharp,se astuto
+302296,Hab,1,8,מִ,מִן,from,de
+302297,Hab,1,8,זְּאֵ֣בֵי,זְאֵב,wolf,lobo
+302298,Hab,1,8,עֶ֔רֶב,עֶרֶב,evening,noche
+302299,Hab,1,8,וּ,וְ,and,y
+302300,Hab,1,8,פָ֖שׁוּ,פושׁ,paw the ground,pata al suelo
+302301,Hab,1,8,פָּֽרָשָׁ֑יו,פָּרָשׁ,horseman,jinete
+302302,Hab,1,8,וּ,וְ,and,y
+302303,Hab,1,8,פָֽרָשָׁיו֙,פָּרָשׁ,horseman,jinete
+302304,Hab,1,8,מֵ,מִן,from,de
+302305,Hab,1,8,רָחֹ֣וק,רָחֹוק,remote,remoto
+302306,Hab,1,8,יָבֹ֔אוּ,בוא,come,ven
+302307,Hab,1,8,יָעֻ֕פוּ,עוף,fly,mosca
+302308,Hab,1,8,כְּ,כְּ,as,como
+302309,Hab,1,8,נֶ֖שֶׁר,נֶשֶׁר,eagle,águila
+302310,Hab,1,8,חָ֥שׁ,חושׁ,make haste,darse prisa
+302311,Hab,1,8,לֶ,לְ,to,a
+302312,Hab,1,8,אֱכֹֽול׃,אכל,eat,comer
+302313,Hab,1,9,כֻּלֹּה֙,כֹּל,whole,todo
+302314,Hab,1,9,לְ,לְ,to,a
+302315,Hab,1,9,חָמָ֣ס,חָמָס,violence,violencia
+302316,Hab,1,9,יָבֹ֔וא,בוא,come,ven
+302317,Hab,1,9,מְגַמַּ֥ת,מְגַמַּת,[uncertain],[incierto]
+302318,Hab,1,9,פְּנֵיהֶ֖ם,פָּנֶה,face,cara
+302319,Hab,1,9,קָדִ֑ימָה,קָדִים,east,este
+302320,Hab,1,9,וַ,וְ,and,y
+302321,Hab,1,9,יֶּאֱסֹ֥ף,אסף,gather,reunir
+302322,Hab,1,9,כַּ,כְּ,as,como
+302323,Hab,1,9,,הַ,the,el
+302324,Hab,1,9,חֹ֖ול,חֹול,sand,arena
+302325,Hab,1,9,שֶֽׁבִי׃,שְׁבִי,captive,cautivo
+302326,Hab,1,10,וְ,וְ,and,y
+302327,Hab,1,10,הוּא֙,הוּא,he,él
+302328,Hab,1,10,בַּ,בְּ,in,en
+302329,Hab,1,10,,הַ,the,el
+302330,Hab,1,10,מְּלָכִ֣ים,מֶלֶךְ,king,Rey
+302331,Hab,1,10,יִתְקַלָּ֔ס,קלס,disdain,desdén
+302332,Hab,1,10,וְ,וְ,and,y
+302333,Hab,1,10,רֹזְנִ֖ים,רזן,be weighty,ser pesada
+302334,Hab,1,10,מִשְׂחָ֣ק,מִשְׂחָק,laughter,risa
+302335,Hab,1,10,לֹ֑ו,לְ,to,a
+302336,Hab,1,10,ה֚וּא,הוּא,he,él
+302337,Hab,1,10,לְ,לְ,to,a
+302338,Hab,1,10,כָל־,כֹּל,whole,todo
+302339,Hab,1,10,מִבְצָ֣ר,מִבְצָר,fortification,fortificación
+302340,Hab,1,10,יִשְׂחָ֔ק,שׂחק,laugh,risa
+302341,Hab,1,10,וַ,וְ,and,y
+302342,Hab,1,10,יִּצְבֹּ֥ר,צבר,heap,montón
+302343,Hab,1,10,עָפָ֖ר,עָפָר,dust,polvo
+302344,Hab,1,10,וַֽ,וְ,and,y
+302345,Hab,1,10,יִּלְכְּדָֽהּ׃,לכד,seize,aprovechar
+302346,Hab,1,11,אָ֣ז,אָז,then,entonces
+302347,Hab,1,11,חָלַ֥ף,חלף,come after,ven luego
+302348,Hab,1,11,ר֛וּחַ,רוּחַ,wind,viento
+302349,Hab,1,11,וַֽ,וְ,and,y
+302350,Hab,1,11,יַּעֲבֹ֖ר,עבר,pass,pasar
+302351,Hab,1,11,וְ,וְ,and,y
+302352,Hab,1,11,אָשֵׁ֑ם,אשׁם,do wrong,hacer el mal
+302353,Hab,1,11,ז֥וּ,זוּ,[relative],[relativo]
+302354,Hab,1,11,כֹחֹ֖ו,כֹּחַ,strength,fuerza
+302355,Hab,1,11,לֵ,לְ,to,a
+302356,Hab,1,11,אלֹהֹֽו׃,אֱלֹוהַּ,god,Dios
+302357,Hab,1,12,הֲ,הֲ,[interrogativo],[Interrogativo]
+302358,Hab,1,12,לֹ֧וא,לֹא,not,no
+302359,Hab,1,12,אַתָּ֣ה,אַתָּה,you,tú
+302360,Hab,1,12,מִ,מִן,from,de
+302361,Hab,1,12,קֶּ֗דֶם,קֶדֶם,front,frente
+302362,Hab,1,12,יְהוָ֧ה,יְהוָה,YHWH,YHWH
+302363,Hab,1,12,אֱלֹהַ֛י,אֱלֹהִים,god(s),gallinero)
+302364,Hab,1,12,קְדֹשִׁ֖י,קָדֹושׁ,holy,santo
+302365,Hab,1,12,לֹ֣א,לֹא,not,no
+302366,Hab,1,12,נָמ֑וּת,מות,die,morir
+302367,Hab,1,12,יְהוָה֙,יְהוָה,YHWH,YHWH
+302368,Hab,1,12,לְ,לְ,to,a
+302369,Hab,1,12,מִשְׁפָּ֣ט,מִשְׁפָּט,justice,justicia
+302370,Hab,1,12,שַׂמְתֹּ֔ו,שׂים,put,poner
+302371,Hab,1,12,וְ,וְ,and,y
+302372,Hab,1,12,צ֖וּר,צוּר,rock,rock
+302373,Hab,1,12,לְ,לְ,to,a
+302374,Hab,1,12,הֹוכִ֥יחַ,יכח,reprove,reprender
+302375,Hab,1,12,יְסַדְתֹּֽו׃,יסד,found,encontró
+302376,Hab,1,13,טְהֹ֤ור,טָהֹר,pure,puro
+302377,Hab,1,13,עֵינַ֨יִם֙,עַיִן,eye,ojo
+302378,Hab,1,13,מֵ,מִן,from,de
+302379,Hab,1,13,רְאֹ֣ות,ראה,see,ver
+302380,Hab,1,13,רָ֔ע,רַע,evil,mal
+302381,Hab,1,13,וְ,וְ,and,y
+302382,Hab,1,13,הַבִּ֥יט,נבט,look at,mirar
+302383,Hab,1,13,אֶל־,אֶל,to,a
+302384,Hab,1,13,עָמָ֖ל,עָמָל,labour,labor
+302385,Hab,1,13,לֹ֣א,לֹא,not,no
+302386,Hab,1,13,תוּכָ֑ל,יכל,be able,ser capaz
+302387,Hab,1,13,לָ֤מָּה,לָמָה,why,por qué
+302388,Hab,1,13,תַבִּיט֙,נבט,look at,mirar
+302389,Hab,1,13,בֹּֽוגְדִ֔ים,בגד,deal treacherously,menospreciaremos
+302390,Hab,1,13,תַּחֲרִ֕ישׁ,חרשׁ,be deaf,ser sordo
+302391,Hab,1,13,בְּ,בְּ,in,en
+302392,Hab,1,13,בַלַּ֥ע,בלע,swallow,golondrina
+302393,Hab,1,13,רָשָׁ֖ע,רָשָׁע,guilty,culpable
+302394,Hab,1,13,צַדִּ֥יק,צַדִּיק,just,sólo
+302395,Hab,1,13,מִמֶּֽנּוּ׃,מִן,from,de
+302396,Hab,1,14,וַ,וְ,and,y
+302397,Hab,1,14,תַּעֲשֶׂ֥ה,עשׂה,make,hacer
+302398,Hab,1,14,אָדָ֖ם,אָדָם,human,humano
+302399,Hab,1,14,כִּ,כְּ,as,como
+302400,Hab,1,14,דְגֵ֣י,דָּג,fish,pescado
+302401,Hab,1,14,הַ,הַ,the,el
+302402,Hab,1,14,יָּ֑ם,יָם,sea,mar
+302403,Hab,1,14,כְּ,כְּ,as,como
+302404,Hab,1,14,רֶ֖מֶשׂ,רֶמֶשׂ,creeping animals,arrastrándose animales
+302405,Hab,1,14,לֹא־,לֹא,not,no
+302406,Hab,1,14,מֹשֵׁ֥ל,משׁל,rule,regla
+302407,Hab,1,14,בֹּֽו׃,בְּ,in,en
+302408,Hab,1,15,כֻּלֹּה֙,כֹּל,whole,todo
+302409,Hab,1,15,בְּ,בְּ,in,en
+302410,Hab,1,15,חַכָּ֣ה,חַכָּה,fish-hook,anzuelo
+302411,Hab,1,15,הֵֽעֲלָ֔ה,עלה,ascend,ascender
+302412,Hab,1,15,יְגֹרֵ֣הוּ,גרר,drag away,arrastrar afuera
+302413,Hab,1,15,בְ,בְּ,in,en
+302414,Hab,1,15,חֶרְמֹ֔ו,חֵרֶם,net,red
+302415,Hab,1,15,וְ,וְ,and,y
+302416,Hab,1,15,יַאַסְפֵ֖הוּ,אסף,gather,reunir
+302417,Hab,1,15,בְּ,בְּ,in,en
+302418,Hab,1,15,מִכְמַרְתֹּ֑ו,מִכְמֶרֶת,net,red
+302419,Hab,1,15,עַל־,עַל,upon,sobre
+302420,Hab,1,15,כֵּ֖ן,כֵּן,thus,así
+302421,Hab,1,15,יִשְׂמַ֥ח,שׂמח,rejoice,alegrarse
+302422,Hab,1,15,וְ,וְ,and,y
+302423,Hab,1,15,יָגִֽיל׃,גיל,rejoice,alegrarse
+302424,Hab,1,16,עַל־,עַל,upon,sobre
+302425,Hab,1,16,כֵּן֙,כֵּן,thus,así
+302426,Hab,1,16,יְזַבֵּ֣חַ,זבח,slaughter,sacrificio
+302427,Hab,1,16,לְ,לְ,to,a
+302428,Hab,1,16,חֶרְמֹ֔ו,חֵרֶם,net,red
+302429,Hab,1,16,וִֽ,וְ,and,y
+302430,Hab,1,16,יקַטֵּ֖ר,קטר,smoke,fumar
+302431,Hab,1,16,לְ,לְ,to,a
+302432,Hab,1,16,מִכְמַרְתֹּ֑ו,מִכְמֶרֶת,net,red
+302433,Hab,1,16,כִּ֤י,כִּי,that,ese
+302434,Hab,1,16,בָ,בְּ,in,en
+302435,Hab,1,16,הֵ֨מָּה֙,הֵמָּה,they,ellos
+302436,Hab,1,16,שָׁמֵ֣ן,שָׁמֵן,fat,grasa
+302437,Hab,1,16,חֶלְקֹ֔ו,חֵלֶק,share,compartir
+302438,Hab,1,16,וּ,וְ,and,y
+302439,Hab,1,16,מַאֲכָלֹ֖ו,מַאֲכָל,food,comida
+302440,Hab,1,16,בְּרִאָֽה׃,בָּרִיא,fat,grasa
+302441,Hab,1,17,הַ֥,הֲ,[interrogativo],[Interrogativo]
+302442,Hab,1,17,עַל,עַל,upon,sobre
+302443,Hab,1,17,כֵּ֖ן,כֵּן,thus,así
+302444,Hab,1,17,יָרִ֣יק,ריק,be empty,estar vacía
+302445,Hab,1,17,חֶרְמֹ֑ו,חֵרֶם,net,red
+302446,Hab,1,17,וְ,וְ,and,y
+302447,Hab,1,17,תָמִ֛יד,תָּמִיד,continuity,continuidad
+302448,Hab,1,17,לַ,לְ,to,a
+302449,Hab,1,17,הֲרֹ֥ג,הרג,kill,matar
+302450,Hab,1,17,גֹּויִ֖ם,גֹּוי,people,gente
+302451,Hab,1,17,לֹ֥א,לֹא,not,no
+302452,Hab,1,17,יַחְמֹֽול׃ ס,חמל,have compassion,tener compasión
+302453,Hab,2,1,עַל־,עַל,upon,sobre
+302454,Hab,2,1,מִשְׁמַרְתִּ֣י,מִשְׁמֶרֶת,guard-post,puesto de guardia
+302455,Hab,2,1,אֶעֱמֹ֔דָה,עמד,stand,estar
+302456,Hab,2,1,וְ,וְ,and,y
+302457,Hab,2,1,אֶֽתְיַצְּבָ֖ה,יצב,stand,estar
+302458,Hab,2,1,עַל־,עַל,upon,sobre
+302459,Hab,2,1,מָצֹ֑ור,מָצֹור,siege,cerco
+302460,Hab,2,1,וַ,וְ,and,y
+302461,Hab,2,1,אֲצַפֶּ֗ה,צפה,look out,Estar atento
+302462,Hab,2,1,לִ,לְ,to,a
+302463,Hab,2,1,רְאֹות֙,ראה,see,ver
+302464,Hab,2,1,מַה־,מָה,what,qué
+302465,Hab,2,1,יְדַבֶּר־,דבר,speak,hablar
+302466,Hab,2,1,בִּ֔י,בְּ,in,en
+302467,Hab,2,1,וּ,וְ,and,y
+302468,Hab,2,1,מָ֥ה,מָה,what,qué
+302469,Hab,2,1,אָשִׁ֖יב,שׁוב,return,regreso
+302470,Hab,2,1,עַל־,עַל,upon,sobre
+302471,Hab,2,1,תֹּוכַחְתִּֽי׃,תֹּוכַחַת,rebuke,reprensión
+302472,Hab,2,2,וַ,וְ,and,y
+302473,Hab,2,2,יַּעֲנֵ֤נִי,ענה,answer,responder
+302474,Hab,2,2,יְהוָה֙,יְהוָה,YHWH,YHWH
+302475,Hab,2,2,וַ,וְ,and,y
+302476,Hab,2,2,יֹּ֔אמֶר,אמר,say,decir
+302477,Hab,2,2,כְּתֹ֣וב,כתב,write,escribir
+302478,Hab,2,2,חָזֹ֔ון,חָזֹון,vision,visión
+302479,Hab,2,2,וּ,וְ,and,y
+302480,Hab,2,2,בָאֵ֖ר,באר,explain,explique
+302481,Hab,2,2,עַל־,עַל,upon,sobre
+302482,Hab,2,2,הַ,הַ,the,el
+302483,Hab,2,2,לֻּחֹ֑ות,לוּחַ,tablet,tableta
+302484,Hab,2,2,לְמַ֥עַן,לְמַעַן,because of,porque
+302485,Hab,2,2,יָר֖וּץ,רוץ,run,correr
+302486,Hab,2,2,קֹ֥ורֵא,קרא,call,llamada
+302487,Hab,2,2,בֹֽו׃,בְּ,in,en
+302488,Hab,2,3,כִּ֣י,כִּי,that,ese
+302489,Hab,2,3,עֹ֤וד,עֹוד,duration,duración
+302490,Hab,2,3,חָזֹון֙,חָזֹון,vision,visión
+302491,Hab,2,3,לַ,לְ,to,a
+302492,Hab,2,3,,הַ,the,el
+302493,Hab,2,3,מֹּועֵ֔ד,מֹועֵד,appointment,cita
+302494,Hab,2,3,וְ,וְ,and,y
+302495,Hab,2,3,יָפֵ֥חַ,פוח,wheeze,jadear
+302496,Hab,2,3,לַ,לְ,to,a
+302497,Hab,2,3,,הַ,the,el
+302498,Hab,2,3,קֵּ֖ץ,קֵץ,end,fin
+302499,Hab,2,3,וְ,וְ,and,y
+302500,Hab,2,3,לֹ֣א,לֹא,not,no
+302501,Hab,2,3,יְכַזֵּ֑ב,כזב,lie,mentira
+302502,Hab,2,3,אִם־,אִם,if,Si
+302503,Hab,2,3,יִתְמַהְמָהּ֙,מָהַהּ,tarry,alquitranado
+302504,Hab,2,3,חַכֵּה־,חכה,wait,Espere
+302505,Hab,2,3,לֹ֔ו,לְ,to,a
+302506,Hab,2,3,כִּֽי־,כִּי,that,ese
+302507,Hab,2,3,בֹ֥א,בוא,come,ven
+302508,Hab,2,3,יָבֹ֖א,בוא,come,ven
+302509,Hab,2,3,לֹ֥א,לֹא,not,no
+302510,Hab,2,3,יְאַחֵֽר׃,אחר,be behind,Estate detrás
+302511,Hab,2,4,הִנֵּ֣ה,הִנֵּה,behold,Mirad
+302512,Hab,2,4,עֻפְּלָ֔ה,עפל,be heedless,ser negligentes
+302513,Hab,2,4,לֹא־,לֹא,not,no
+302514,Hab,2,4,יָשְׁרָ֥ה,ישׁר,be right,tener razón
+302515,Hab,2,4,נַפְשֹׁ֖ו,נֶפֶשׁ,soul,alma
+302516,Hab,2,4,בֹּ֑ו,בְּ,in,en
+302517,Hab,2,4,וְ,וְ,and,y
+302518,Hab,2,4,צַדִּ֖יק,צַדִּיק,just,sólo
+302519,Hab,2,4,בֶּ,בְּ,in,en
+302520,Hab,2,4,אֱמוּנָתֹ֥ו,אֱמוּנָה,steadiness,firmeza
+302521,Hab,2,4,יִחְיֶֽה׃,חיה,be alive,estar vivo
+302522,Hab,2,5,וְ,וְ,and,y
+302523,Hab,2,5,אַף֙,אַף,even,incluso
+302524,Hab,2,5,כִּֽי־,כִּי,that,ese
+302525,Hab,2,5,הַ,הַ,the,el
+302526,Hab,2,5,יַּ֣יִן,יַיִן,wine,vino
+302527,Hab,2,5,בֹּוגֵ֔ד,בגד,deal treacherously,menospreciaremos
+302528,Hab,2,5,גֶּ֥בֶר,גֶּבֶר,vigorous man,hombre vigoroso
+302529,Hab,2,5,יָהִ֖יר,יָהִיר,haughty,arrogante
+302530,Hab,2,5,וְ,וְ,and,y
+302531,Hab,2,5,לֹ֣א,לֹא,not,no
+302532,Hab,2,5,יִנְוֶ֑ה,נוה,reach,alcanzar
+302533,Hab,2,5,אֲשֶׁר֩,אֲשֶׁר,[relative],[relativo]
+302534,Hab,2,5,הִרְחִ֨יב,רחב,be wide,ser amplia
+302535,Hab,2,5,כִּ,כְּ,as,como
+302536,Hab,2,5,שְׁאֹ֜ול,שְׁאֹול,nether world,mundo inferior
+302537,Hab,2,5,נַפְשֹׁ֗ו,נֶפֶשׁ,soul,alma
+302538,Hab,2,5,וְ,וְ,and,y
+302539,Hab,2,5,ה֤וּא,הוּא,he,él
+302540,Hab,2,5,כַ,כְּ,as,como
+302541,Hab,2,5,,הַ,the,el
+302542,Hab,2,5,מָּ֨וֶת֙,מָוֶת,death,muerte
+302543,Hab,2,5,וְ,וְ,and,y
+302544,Hab,2,5,לֹ֣א,לֹא,not,no
+302545,Hab,2,5,יִשְׂבָּ֔ע,שׂבע,be sated,saciarse
+302546,Hab,2,5,וַ,וְ,and,y
+302547,Hab,2,5,יֶּאֱסֹ֤ף,אסף,gather,reunir
+302548,Hab,2,5,אֵלָיו֙,אֶל,to,a
+302549,Hab,2,5,כָּל־,כֹּל,whole,todo
+302550,Hab,2,5,הַ,הַ,the,el
+302551,Hab,2,5,גֹּויִ֔ם,גֹּוי,people,gente
+302552,Hab,2,5,וַ,וְ,and,y
+302553,Hab,2,5,יִּקְבֹּ֥ץ,קבץ,collect,recoger
+302554,Hab,2,5,אֵלָ֖יו,אֶל,to,a
+302555,Hab,2,5,כָּל־,כֹּל,whole,todo
+302556,Hab,2,5,הָ,הַ,the,el
+302557,Hab,2,5,עַמִּֽים׃,עַם,people,gente
+302558,Hab,2,6,הֲ,הֲ,[interrogativo],[Interrogativo]
+302559,Hab,2,6,לֹוא־,לֹא,not,no
+302560,Hab,2,6,אֵ֣לֶּה,אֵלֶּה,these,estas
+302561,Hab,2,6,כֻלָּ֗ם,כֹּל,whole,todo
+302562,Hab,2,6,עָלָיו֙,עַל,upon,sobre
+302563,Hab,2,6,מָשָׁ֣ל,מָשָׁל,proverbo,proverbo
+302564,Hab,2,6,יִשָּׂ֔אוּ,נשׂא,lift,ascensor
+302565,Hab,2,6,וּ,וְ,and,y
+302566,Hab,2,6,מְלִיצָ֖ה,מְלִיצָה,saying,diciendo
+302567,Hab,2,6,חִידֹ֣ות,חִידָה,riddle,enigma
+302568,Hab,2,6,לֹ֑ו,לְ,to,a
+302569,Hab,2,6,וְ,וְ,and,y
+302570,Hab,2,6,יֹאמַ֗ר,אמר,say,decir
+302571,Hab,2,6,הֹ֚וי,הֹוי,alas,Ay
+302572,Hab,2,6,הַ,הַ,the,el
+302573,Hab,2,6,מַּרְבֶּ֣ה,רבה,be many,ser muchos
+302574,Hab,2,6,לֹּא־,לֹא,not,no
+302575,Hab,2,6,לֹ֔ו,לְ,to,a
+302576,Hab,2,6,עַד־,עַד,unto,hasta
+302577,Hab,2,6,מָתַ֕י,מָתַי,when,cuando
+302578,Hab,2,6,וּ,וְ,and,y
+302579,Hab,2,6,מַכְבִּ֥יד,כבד,be heavy,ser pesado
+302580,Hab,2,6,עָלָ֖יו,עַל,upon,sobre
+302581,Hab,2,6,עַבְטִֽיט׃,עַבְטִיט,debt,deuda
+302582,Hab,2,7,הֲ,הֲ,[interrogativo],[Interrogativo]
+302583,Hab,2,7,לֹ֣וא,לֹא,not,no
+302584,Hab,2,7,פֶ֗תַע,פֶּתַע,instant,instante
+302585,Hab,2,7,יָק֨וּמוּ֙,קום,arise,surgir
+302586,Hab,2,7,נֹשְׁכֶ֔יךָ,נשׁך,claim interest,reclamar intereses
+302587,Hab,2,7,וְ,וְ,and,y
+302588,Hab,2,7,יִקְצ֖וּ,יקץ,awake,despierto
+302589,Hab,2,7,מְזַעְזְעֶ֑יךָ,זוע,tremble,temblar
+302590,Hab,2,7,וְ,וְ,and,y
+302591,Hab,2,7,הָיִ֥יתָ,היה,be,ser
+302592,Hab,2,7,לִ,לְ,to,a
+302593,Hab,2,7,מְשִׁסֹּ֖ות,מְשִׁסָּה,plunder,saquear
+302594,Hab,2,7,לָֽמֹו׃,לְ,to,a
+302595,Hab,2,8,כִּֽי,כִּי,that,ese
+302596,Hab,2,8,אַתָּ֤ה,אַתָּה,you,tú
+302597,Hab,2,8,שַׁלֹּ֨ותָ֙,שׁלל,plunder,saquear
+302598,Hab,2,8,גֹּויִ֣ם,גֹּוי,people,gente
+302599,Hab,2,8,רַבִּ֔ים,רַב,much,mucho
+302600,Hab,2,8,יְשָׁלּ֖וּךָ,שׁלל,plunder,saquear
+302601,Hab,2,8,כָּל־,כֹּל,whole,todo
+302602,Hab,2,8,יֶ֣תֶר,יֶתֶר,remainder,recordatorio
+302603,Hab,2,8,עַמִּ֑ים,עַם,people,gente
+302604,Hab,2,8,מִ,מִן,from,de
+302605,Hab,2,8,דְּמֵ֤י,דָּם,blood,sangre
+302606,Hab,2,8,אָדָם֙,אָדָם,human,humano
+302607,Hab,2,8,וַ,וְ,and,y
+302608,Hab,2,8,חֲמַס־,חָמָס,violence,violencia
+302609,Hab,2,8,אֶ֔רֶץ,אֶרֶץ,earth,tierra
+302610,Hab,2,8,קִרְיָ֖ה,קִרְיָה,town,pueblo
+302611,Hab,2,8,וְ,וְ,and,y
+302612,Hab,2,8,כָל־,כֹּל,whole,todo
+302613,Hab,2,8,יֹ֥שְׁבֵי,ישׁב,sit,sentar
+302614,Hab,2,8,בָֽהּ׃ פ,בְּ,in,en
+302615,Hab,2,9,הֹ֗וי,הֹוי,alas,Ay
+302616,Hab,2,9,בֹּצֵ֛עַ,בצע,cut off,cortar
+302617,Hab,2,9,בֶּ֥צַע,בֶּצַע,profit,lucro
+302618,Hab,2,9,רָ֖ע,רַע,evil,mal
+302619,Hab,2,9,לְ,לְ,to,a
+302620,Hab,2,9,בֵיתֹ֑ו,בַּיִת,house,casa
+302621,Hab,2,9,לָ,לְ,to,a
+302622,Hab,2,9,שׂ֤וּם,שׂים,put,poner
+302623,Hab,2,9,בַּ,בְּ,in,en
+302624,Hab,2,9,,הַ,the,el
+302625,Hab,2,9,מָּרֹום֙,מָרֹום,high place,lugar alto
+302626,Hab,2,9,קִנֹּ֔ו,קֵן,nest,nido
+302627,Hab,2,9,לְ,לְ,to,a
+302628,Hab,2,9,הִנָּצֵ֖ל,נצל,deliver,entregar
+302629,Hab,2,9,מִ,מִן,from,de
+302630,Hab,2,9,כַּף־,כַּף,palm,palma
+302631,Hab,2,9,רָֽע׃,רַע,evil,mal
+302632,Hab,2,10,יָעַ֥צְתָּ,יעץ,advise,asesorar
+302633,Hab,2,10,בֹּ֖שֶׁת,בֹּשֶׁת,shame,vergüenza
+302634,Hab,2,10,לְ,לְ,to,a
+302635,Hab,2,10,בֵיתֶ֑ךָ,בַּיִת,house,casa
+302636,Hab,2,10,קְצֹות־,קצה,cut off,cortar
+302637,Hab,2,10,עַמִּ֥ים,עַם,people,gente
+302638,Hab,2,10,רַבִּ֖ים,רַב,much,mucho
+302639,Hab,2,10,וְ,וְ,and,y
+302640,Hab,2,10,חֹוטֵ֥א,חטא,miss,perder
+302641,Hab,2,10,נַפְשֶֽׁךָ׃,נֶפֶשׁ,soul,alma
+302642,Hab,2,11,כִּי־,כִּי,that,ese
+302643,Hab,2,11,אֶ֖בֶן,אֶבֶן,stone,piedra
+302644,Hab,2,11,מִ,מִן,from,de
+302645,Hab,2,11,קִּ֣יר,קִיר,wall,pared
+302646,Hab,2,11,תִּזְעָ֑ק,זעק,cry,llorar
+302647,Hab,2,11,וְ,וְ,and,y
+302648,Hab,2,11,כָפִ֖יס,כָּפִיס,stucco-work,estucos
+302649,Hab,2,11,מֵ,מִן,from,de
+302650,Hab,2,11,עֵ֥ץ,עֵץ,tree,árbol
+302651,Hab,2,11,יַעֲנֶֽנָּה׃ פ,ענה,answer,responder
+302652,Hab,2,12,הֹ֛וי,הֹוי,alas,Ay
+302653,Hab,2,12,בֹּנֶ֥ה,בנה,build,construir
+302654,Hab,2,12,עִ֖יר,עִיר,town,pueblo
+302655,Hab,2,12,בְּ,בְּ,in,en
+302656,Hab,2,12,דָמִ֑ים,דָּם,blood,sangre
+302657,Hab,2,12,וְ,וְ,and,y
+302658,Hab,2,12,כֹונֵ֥ן,כון,be firm,Se firme
+302659,Hab,2,12,קִרְיָ֖ה,קִרְיָה,town,pueblo
+302660,Hab,2,12,בְּ,בְּ,in,en
+302661,Hab,2,12,עַוְלָֽה׃,עַוְלָה,wickedness,malicia
+302662,Hab,2,13,הֲ,הֲ,[interrogativo],[Interrogativo]
+302663,Hab,2,13,לֹ֣וא,לֹא,not,no
+302664,Hab,2,13,הִנֵּ֔ה,הִנֵּה,behold,Mirad
+302665,Hab,2,13,מֵ,מִן,from,de
+302666,Hab,2,13,אֵ֖ת,אֵת,together with,Juntos con
+302667,Hab,2,13,יְהוָ֣ה,יְהוָה,YHWH,YHWH
+302668,Hab,2,13,צְבָאֹ֑ות,צָבָא,service,Servicio
+302669,Hab,2,13,וְ,וְ,and,y
+302670,Hab,2,13,יִֽיגְע֤וּ,יגע,be weary,cansarse
+302671,Hab,2,13,עַמִּים֙,עַם,people,gente
+302672,Hab,2,13,בְּ,בְּ,in,en
+302673,Hab,2,13,דֵי־,דַּי,sufficiency,suficiencia
+302674,Hab,2,13,אֵ֔שׁ,אֵשׁ,fire,fuego
+302675,Hab,2,13,וּ,וְ,and,y
+302676,Hab,2,13,לְאֻמִּ֖ים,לְאֹם,people,gente
+302677,Hab,2,13,בְּ,בְּ,in,en
+302678,Hab,2,13,דֵי־,דַּי,sufficiency,suficiencia
+302679,Hab,2,13,רִ֥יק,רִיק,emptiness,vacío
+302680,Hab,2,13,יִעָֽפוּ׃,יעף,be weary,cansarse
+302681,Hab,2,14,כִּ֚י,כִּי,that,ese
+302682,Hab,2,14,תִּמָּלֵ֣א,מלא,be full,estar lleno
+302683,Hab,2,14,הָ,הַ,the,el
+302684,Hab,2,14,אָ֔רֶץ,אֶרֶץ,earth,tierra
+302685,Hab,2,14,לָ,לְ,to,a
+302686,Hab,2,14,דַ֖עַת,ידע,know,saber
+302687,Hab,2,14,אֶת־,אֵת,[object marker],[Marcador de objeto]
+302688,Hab,2,14,כְּבֹ֣וד,כָּבֹוד,weight,peso
+302689,Hab,2,14,יְהוָ֑ה,יְהוָה,YHWH,YHWH
+302690,Hab,2,14,כַּ,כְּ,as,como
+302691,Hab,2,14,,הַ,the,el
+302692,Hab,2,14,מַּ֖יִם,מַיִם,water,agua
+302693,Hab,2,14,יְכַסּ֥וּ,כסה,cover,cubrir
+302694,Hab,2,14,עַל־,עַל,upon,sobre
+302695,Hab,2,14,יָֽם׃ ס,יָם,sea,mar
+302696,Hab,2,15,הֹ֚וי,הֹוי,alas,Ay
+302697,Hab,2,15,מַשְׁקֵ֣ה,שׁקה,give drink,dar de beber
+302698,Hab,2,15,רֵעֵ֔הוּ,רֵעַ,fellow,compañero
+302699,Hab,2,15,מְסַפֵּ֥חַ,ספח,attach,adjuntar
+302700,Hab,2,15,חֲמָתְךָ֖,חֵמָה,heat,calor
+302701,Hab,2,15,וְ,וְ,and,y
+302702,Hab,2,15,אַ֣ף,אַף,even,incluso
+302703,Hab,2,15,שַׁכֵּ֑ר,שׁכר,be drunk,Estar borracho
+302704,Hab,2,15,לְמַ֥עַן,לְמַעַן,because of,porque
+302705,Hab,2,15,הַבִּ֖יט,נבט,look at,mirar
+302706,Hab,2,15,עַל־,עַל,upon,sobre
+302707,Hab,2,15,מְעֹורֵיהֶֽם׃,מָעֹור,nakedness,desnudez
+302708,Hab,2,16,שָׂבַ֤עְתָּ,שׂבע,be sated,saciarse
+302709,Hab,2,16,קָלֹון֙,קָלֹון,dishonour,deshonra
+302710,Hab,2,16,מִ,מִן,from,de
+302711,Hab,2,16,כָּבֹ֔וד,כָּבֹוד,weight,peso
+302712,Hab,2,16,שְׁתֵ֥ה,שׁתה,drink,beber
+302713,Hab,2,16,גַם־,גַּם,even,incluso
+302714,Hab,2,16,אַ֖תָּה,אַתָּה,you,tú
+302715,Hab,2,16,וְ,וְ,and,y
+302716,Hab,2,16,הֵֽעָרֵ֑ל,ערל,leave unharvested,dejar sin cosechar
+302717,Hab,2,16,תִּסֹּ֣וב,סבב,turn,giro
+302718,Hab,2,16,עָלֶ֗יךָ,עַל,upon,sobre
+302719,Hab,2,16,כֹּ֚וס,כֹּוס,cup,vaso
+302720,Hab,2,16,יְמִ֣ין,יָמִין,right-hand side,lado derecho
+302721,Hab,2,16,יְהוָ֔ה,יְהוָה,YHWH,YHWH
+302722,Hab,2,16,וְ,וְ,and,y
+302723,Hab,2,16,קִיקָלֹ֖ון,קִיקָלֹון,disgrace,desgracia
+302724,Hab,2,16,עַל־,עַל,upon,sobre
+302725,Hab,2,16,כְּבֹודֶֽךָ׃,כָּבֹוד,weight,peso
+302726,Hab,2,17,כִּ֣י,כִּי,that,ese
+302727,Hab,2,17,חֲמַ֤ס,חָמָס,violence,violencia
+302728,Hab,2,17,לְבָנֹון֙,לְבָנֹון,Lebanon,Líbano
+302729,Hab,2,17,יְכַסֶּ֔ךָּ,כסה,cover,cubrir
+302730,Hab,2,17,וְ,וְ,and,y
+302731,Hab,2,17,שֹׁ֥ד,שֹׁד,violence,violencia
+302732,Hab,2,17,בְּהֵמֹ֖ות,בְּהֵמָה,cattle,ganado
+302733,Hab,2,17,יְחִיתַ֑ן,חתת,be terrified,aterrorizarse
+302734,Hab,2,17,מִ,מִן,from,de
+302735,Hab,2,17,דְּמֵ֤י,דָּם,blood,sangre
+302736,Hab,2,17,אָדָם֙,אָדָם,human,humano
+302737,Hab,2,17,וַ,וְ,and,y
+302738,Hab,2,17,חֲמַס־,חָמָס,violence,violencia
+302739,Hab,2,17,אֶ֔רֶץ,אֶרֶץ,earth,tierra
+302740,Hab,2,17,קִרְיָ֖ה,קִרְיָה,town,pueblo
+302741,Hab,2,17,וְ,וְ,and,y
+302742,Hab,2,17,כָל־,כֹּל,whole,todo
+302743,Hab,2,17,יֹ֥שְׁבֵי,ישׁב,sit,sentar
+302744,Hab,2,17,בָֽהּ׃ ס,בְּ,in,en
+302745,Hab,2,18,מָֽה־,מָה,what,qué
+302746,Hab,2,18,הֹועִ֣יל,יעל,profit,lucro
+302747,Hab,2,18,פֶּ֗סֶל,פֶּסֶל,idol,ídolo
+302748,Hab,2,18,כִּ֤י,כִּי,that,ese
+302749,Hab,2,18,פְסָלֹו֙,פסל,cut,cortar
+302750,Hab,2,18,יֹֽצְרֹ֔ו,יצר,shape,forma
+302751,Hab,2,18,מַסֵּכָ֖ה,מַסֵּכָה,molten image,imagen de fundición
+302752,Hab,2,18,וּ,וְ,and,y
+302753,Hab,2,18,מֹ֣ורֶה,ירה,teach,enseñar
+302754,Hab,2,18,שָּׁ֑קֶר,שֶׁקֶר,lie,mentira
+302755,Hab,2,18,כִּ֣י,כִּי,that,ese
+302756,Hab,2,18,בָטַ֞ח,בטח,trust,confianza
+302757,Hab,2,18,יֹצֵ֤ר,יצר,shape,forma
+302758,Hab,2,18,יִצְרֹו֙,יֵצֶר,form,formar
+302759,Hab,2,18,עָלָ֔יו,עַל,upon,sobre
+302760,Hab,2,18,לַ,לְ,to,a
+302761,Hab,2,18,עֲשֹׂ֖ות,עשׂה,make,hacer
+302762,Hab,2,18,אֱלִילִ֥ים,אֱלִיל,god,Dios
+302763,Hab,2,18,אִלְּמִֽים׃ ס,אִלֵּם,speechless,Sin palabras
+302764,Hab,2,19,הֹ֣וי,הֹוי,alas,Ay
+302765,Hab,2,19,אֹמֵ֤ר,אמר,say,decir
+302766,Hab,2,19,לָ,לְ,to,a
+302767,Hab,2,19,,הַ,the,el
+302768,Hab,2,19,עֵץ֙,עֵץ,tree,árbol
+302769,Hab,2,19,הָקִ֔יצָה,קיץ,pass summer,pasar el verano
+302770,Hab,2,19,ע֖וּרִי,עור,be awake,Estar despierto
+302771,Hab,2,19,לְ,לְ,to,a
+302772,Hab,2,19,אֶ֣בֶן,אֶבֶן,stone,piedra
+302773,Hab,2,19,דּוּמָ֑ם,דּוּמָם,silently,silenciosamente
+302774,Hab,2,19,ה֣וּא,הוּא,he,él
+302775,Hab,2,19,יֹורֶ֔ה,ירה,teach,enseñar
+302776,Hab,2,19,הִנֵּה־,הִנֵּה,behold,Mirad
+302777,Hab,2,19,ה֗וּא,הוּא,he,él
+302778,Hab,2,19,תָּפוּשׂ֙,תפשׂ,seize,aprovechar
+302779,Hab,2,19,זָהָ֣ב,זָהָב,gold,oro
+302780,Hab,2,19,וָ,וְ,and,y
+302781,Hab,2,19,כֶ֔סֶף,כֶּסֶף,silver,plata
+302782,Hab,2,19,וְ,וְ,and,y
+302783,Hab,2,19,כָל־,כֹּל,whole,todo
+302784,Hab,2,19,ר֖וּחַ,רוּחַ,wind,viento
+302785,Hab,2,19,אֵ֥ין,אַיִן,[NEG],[NEG]
+302786,Hab,2,19,בְּ,בְּ,in,en
+302787,Hab,2,19,קִרְבֹּֽו׃,קֶרֶב,interior,interior
+302788,Hab,2,20,וַֽ,וְ,and,y
+302789,Hab,2,20,יהוָ֖ה,יְהוָה,YHWH,YHWH
+302790,Hab,2,20,בְּ,בְּ,in,en
+302791,Hab,2,20,הֵיכַ֣ל,הֵיכָל,palace,palacio
+302792,Hab,2,20,קָדְשֹׁ֑ו,קֹדֶשׁ,holiness,santidad
+302793,Hab,2,20,הַ֥ס,הסה,be still,Estate quieto
+302794,Hab,2,20,מִ,מִן,from,de
+302795,Hab,2,20,פָּנָ֖יו,פָּנֶה,face,cara
+302796,Hab,2,20,כָּל־,כֹּל,whole,todo
+302797,Hab,2,20,הָ,הַ,the,el
+302798,Hab,2,20,אָֽרֶץ׃ פ,אֶרֶץ,earth,tierra
+302799,Hab,3,1,תְּפִלָּ֖ה,תְּפִלָּה,prayer,oración
+302800,Hab,3,1,לַ,לְ,to,a
+302801,Hab,3,1,חֲבַקּ֣וּק,חֲבַקּוּק,Habakkuk,Habacuc
+302802,Hab,3,1,הַ,הַ,the,el
+302803,Hab,3,1,נָּבִ֑יא,נָבִיא,prophet,profeta
+302804,Hab,3,1,עַ֖ל,עַל,upon,sobre
+302805,Hab,3,1,שִׁגְיֹנֹֽות׃,שִׁגָּיֹון,dirge,endecha
+302806,Hab,3,2,יְהוָ֗ה,יְהוָה,YHWH,YHWH
+302807,Hab,3,2,שָׁמַ֣עְתִּי,שׁמע,hear,oír
+302808,Hab,3,2,שִׁמְעֲךָ֮,שֵׁמַע,hearsay,rumores
+302809,Hab,3,2,יָרֵאתִי֒,ירא,fear,miedo
+302810,Hab,3,2,יְהוָ֗ה,יְהוָה,YHWH,YHWH
+302811,Hab,3,2,פָּֽעָלְךָ֙,פֹּעַל,doing,obra
+302812,Hab,3,2,בְּ,בְּ,in,en
+302813,Hab,3,2,קֶ֤רֶב,קֶרֶב,interior,interior
+302814,Hab,3,2,שָׁנִים֙,שָׁנָה,year,año
+302815,Hab,3,2,חַיֵּ֔יהוּ,חיה,be alive,estar vivo
+302816,Hab,3,2,בְּ,בְּ,in,en
+302817,Hab,3,2,קֶ֥רֶב,קֶרֶב,interior,interior
+302818,Hab,3,2,שָׁנִ֖ים,שָׁנָה,year,año
+302819,Hab,3,2,תֹּודִ֑יעַ,ידע,know,saber
+302820,Hab,3,2,בְּ,בְּ,in,en
+302821,Hab,3,2,רֹ֖גֶז,רֹגֶז,excitement,emoción
+302822,Hab,3,2,רַחֵ֥ם,רחם,have compassion,tener compasión
+302823,Hab,3,2,תִּזְכֹּֽור׃,זכר,remember,recuerda
+302824,Hab,3,3,אֱלֹ֨והַ֙,אֱלֹוהַּ,god,Dios
+302825,Hab,3,3,מִ,מִן,from,de
+302826,Hab,3,3,תֵּימָ֣ן,תֵּימָן,Teman,Teman
+302827,Hab,3,3,יָבֹ֔וא,בוא,come,ven
+302828,Hab,3,3,וְ,וְ,and,y
+302829,Hab,3,3,קָדֹ֥ושׁ,קָדֹושׁ,holy,santo
+302830,Hab,3,3,מֵֽ,מִן,from,de
+302831,Hab,3,3,הַר־,הַר,mountain,montaña
+302832,Hab,3,3,פָּארָ֖ן,פָּארָן,Paran,Paran
+302833,Hab,3,3,סֶ֑לָה,סֶלָה,sela,sela
+302834,Hab,3,3,כִּסָּ֤ה,כסה,cover,cubrir
+302835,Hab,3,3,שָׁמַ֨יִם֙,שָׁמַיִם,heavens,Cielos
+302836,Hab,3,3,הֹודֹ֔ו,הֹוד,splendour,esplendor
+302837,Hab,3,3,וּ,וְ,and,y
+302838,Hab,3,3,תְהִלָּתֹ֖ו,תְּהִלָּה,praise,alabanza
+302839,Hab,3,3,מָלְאָ֥ה,מלא,be full,estar lleno
+302840,Hab,3,3,הָ,הַ,the,el
+302841,Hab,3,3,אָֽרֶץ׃,אֶרֶץ,earth,tierra
+302842,Hab,3,4,וְ,וְ,and,y
+302843,Hab,3,4,נֹ֨גַהּ֙,נֹגַהּ,brightness,brillo
+302844,Hab,3,4,כָּ,כְּ,as,como
+302845,Hab,3,4,,הַ,the,el
+302846,Hab,3,4,אֹ֣ור,אֹור,light,ligero
+302847,Hab,3,4,תִּֽהְיֶ֔ה,היה,be,ser
+302848,Hab,3,4,קַרְנַ֥יִם,קֶרֶן,horn,cuerno
+302849,Hab,3,4,מִ,מִן,from,de
+302850,Hab,3,4,יָּדֹ֖ו,יָד,hand,mano
+302851,Hab,3,4,לֹ֑ו,לְ,to,a
+302852,Hab,3,4,וְ,וְ,and,y
+302853,Hab,3,4,שָׁ֖ם,שָׁם,there,ahí
+302854,Hab,3,4,חֶבְיֹ֥ון,חֶבְיֹון,veil,velo
+302855,Hab,3,4,עֻזֹּֽו׃,עֹז,power,poder
+302856,Hab,3,5,לְ,לְ,to,a
+302857,Hab,3,5,פָנָ֖יו,פָּנֶה,face,cara
+302858,Hab,3,5,יֵ֣לֶךְ,הלך,walk,caminar
+302859,Hab,3,5,דָּ֑בֶר,דֶּבֶר,pest,parásito
+302860,Hab,3,5,וְ,וְ,and,y
+302861,Hab,3,5,יֵצֵ֥א,יצא,go out,fuera
+302862,Hab,3,5,רֶ֖שֶׁף,רֶשֶׁף,flame,llama
+302863,Hab,3,5,לְ,לְ,to,a
+302864,Hab,3,5,רַגְלָֽיו׃,רֶגֶל,foot,pie
+302865,Hab,3,6,עָמַ֣ד׀,עמד,stand,estar
+302866,Hab,3,6,וַ,וְ,and,y
+302867,Hab,3,6,יְמֹ֣דֶד,מדד,measure,medida
+302868,Hab,3,6,אֶ֗רֶץ,אֶרֶץ,earth,tierra
+302869,Hab,3,6,רָאָה֙,ראה,see,ver
+302870,Hab,3,6,וַ,וְ,and,y
+302871,Hab,3,6,יַּתֵּ֣ר,נתר,run,correr
+302872,Hab,3,6,גֹּויִ֔ם,גֹּוי,people,gente
+302873,Hab,3,6,וַ,וְ,and,y
+302874,Hab,3,6,יִּתְפֹּֽצְצוּ֙,פצץ,shatter,romper
+302875,Hab,3,6,הַרְרֵי־,הַר,mountain,montaña
+302876,Hab,3,6,עַ֔ד,עַד,future,futuro
+302877,Hab,3,6,שַׁח֖וּ,שׁחח,bow down,reverencia
+302878,Hab,3,6,גִּבְעֹ֣ות,גִּבְעָה,hill,colina
+302879,Hab,3,6,עֹולָ֑ם,עֹולָם,eternity,eternidad
+302880,Hab,3,6,הֲלִיכֹ֥ות,הֲלִיכָה,walk,caminar
+302881,Hab,3,6,עֹולָ֖ם,עֹולָם,eternity,eternidad
+302882,Hab,3,6,לֹֽו׃,לְ,to,a
+302883,Hab,3,7,תַּ֣חַת,תַּחַת,under part,bajo la parte
+302884,Hab,3,7,אָ֔וֶן,אָוֶן,wickedness,malicia
+302885,Hab,3,7,רָאִ֖יתִי,ראה,see,ver
+302886,Hab,3,7,אָהֳלֵ֣י,אֹהֶל,tent,tienda
+302887,Hab,3,7,כוּשָׁ֑ן,כּוּשָׁן,Cushan,Cushán
+302888,Hab,3,7,יִרְגְּז֕וּן,רגז,quake,terremoto
+302889,Hab,3,7,יְרִיעֹ֖ות,יְרִיעָה,curtain,cortina
+302890,Hab,3,7,אֶ֥רֶץ,אֶרֶץ,earth,tierra
+302891,Hab,3,7,מִדְיָֽן׃ ס,מִדְיָן,Midian,midian
+302892,Hab,3,8,הֲ,הֲ,[interrogativo],[Interrogativo]
+302893,Hab,3,8,בִ,בְּ,in,en
+302894,Hab,3,8,נְהָרִים֙,נָהָר,stream,corriente
+302895,Hab,3,8,חָרָ֣ה,חרה,be hot,tener calor
+302896,Hab,3,8,יְהוָ֔ה,יְהוָה,YHWH,YHWH
+302897,Hab,3,8,אִ֤ם,אִם,if,Si
+302898,Hab,3,8,בַּ,בְּ,in,en
+302899,Hab,3,8,,הַ,the,el
+302900,Hab,3,8,נְּהָרִים֙,נָהָר,stream,corriente
+302901,Hab,3,8,אַפֶּ֔ךָ,אַף,nose,nariz
+302902,Hab,3,8,אִם־,אִם,if,Si
+302903,Hab,3,8,בַּ,בְּ,in,en
+302904,Hab,3,8,,הַ,the,el
+302905,Hab,3,8,יָּ֖ם,יָם,sea,mar
+302906,Hab,3,8,עֶבְרָתֶ֑ךָ,עֶבְרָה,anger,enfado
+302907,Hab,3,8,כִּ֤י,כִּי,that,ese
+302908,Hab,3,8,תִרְכַּב֙,רכב,ride,paseo
+302909,Hab,3,8,עַל־,עַל,upon,sobre
+302910,Hab,3,8,סוּסֶ֔יךָ,סוּס,horse,caballo
+302911,Hab,3,8,מַרְכְּבֹתֶ֖יךָ,מֶרְכָּבָה,chariot,carruaje
+302912,Hab,3,8,יְשׁוּעָֽה׃,יְשׁוּעָה,salvation,salvación
+302913,Hab,3,9,עֶרְיָ֤ה,עֶרְיָה,nakedness,desnudez
+302914,Hab,3,9,תֵעֹור֙,עור,be naked,estar desnudo
+302915,Hab,3,9,קַשְׁתֶּ֔ךָ,קֶשֶׁת,bow,arco
+302916,Hab,3,9,שְׁבֻעֹ֥ות,שְׁבוּעָה,oath,juramento
+302917,Hab,3,9,מַטֹּ֖ות,מַטֶּה,staff,personal
+302918,Hab,3,9,אֹ֣מֶר,אֹמֶר,saying,diciendo
+302919,Hab,3,9,סֶ֑לָה,סֶלָה,sela,sela
+302920,Hab,3,9,נְהָרֹ֖ות,נָהָר,stream,corriente
+302921,Hab,3,9,תְּבַקַּע־,בקע,split,división
+302922,Hab,3,9,אָֽרֶץ׃,אֶרֶץ,earth,tierra
+302923,Hab,3,10,רָא֤וּךָ,ראה,see,ver
+302924,Hab,3,10,יָחִ֨ילוּ֙,חיל,have labour pain,tener dolor de parto
+302925,Hab,3,10,הָרִ֔ים,הַר,mountain,montaña
+302926,Hab,3,10,זֶ֥רֶם,זֶרֶם,rain,lluvia
+302927,Hab,3,10,מַ֖יִם,מַיִם,water,agua
+302928,Hab,3,10,עָבָ֑ר,עבר,pass,pasar
+302929,Hab,3,10,נָתַ֤ן,נתן,give,dar
+302930,Hab,3,10,תְּהֹום֙,תְּהֹום,primeval ocean,océano primitivo
+302931,Hab,3,10,קֹולֹ֔ו,קֹול,sound,sonar
+302932,Hab,3,10,רֹ֖ום,רֹום,[uncertain],[incierto]
+302933,Hab,3,10,יָדֵ֥יהוּ,יָד,hand,mano
+302934,Hab,3,10,נָשָֽׂא׃,נשׂא,lift,ascensor
+302935,Hab,3,11,שֶׁ֥מֶשׁ,שֶׁמֶשׁ,sun,sol
+302936,Hab,3,11,יָרֵ֖חַ,יָרֵחַ,moon,Luna
+302937,Hab,3,11,עָ֣מַד,עמד,stand,estar
+302938,Hab,3,11,זְבֻ֑לָה,זְבֻל,dominion,dominio
+302939,Hab,3,11,לְ,לְ,to,a
+302940,Hab,3,11,אֹ֤ור,אֹור,light,ligero
+302941,Hab,3,11,חִצֶּ֨יךָ֙,חֵץ,arrow,flecha
+302942,Hab,3,11,יְהַלֵּ֔כוּ,הלך,walk,caminar
+302943,Hab,3,11,לְ,לְ,to,a
+302944,Hab,3,11,נֹ֖גַהּ,נֹגַהּ,brightness,brillo
+302945,Hab,3,11,בְּרַ֥ק,בָּרָק,lightning,relámpago
+302946,Hab,3,11,חֲנִיתֶֽךָ׃,חֲנִית,spear,lanza
+302947,Hab,3,12,בְּ,בְּ,in,en
+302948,Hab,3,12,זַ֖עַם,זַעַם,curse,maldición
+302949,Hab,3,12,תִּצְעַד־,צעד,mAh,mAh
+302950,Hab,3,12,אָ֑רֶץ,אֶרֶץ,earth,tierra
+302951,Hab,3,12,בְּ,בְּ,in,en
+302952,Hab,3,12,אַ֖ף,אַף,nose,nariz
+302953,Hab,3,12,תָּד֥וּשׁ,דושׁ,tread on,pisar
+302954,Hab,3,12,גֹּויִֽם׃,גֹּוי,people,gente
+302955,Hab,3,13,יָצָ֨אתָ֙,יצא,go out,fuera
+302956,Hab,3,13,לְ,לְ,to,a
+302957,Hab,3,13,יֵ֣שַׁע,יֵשַׁע,help,ayuda
+302958,Hab,3,13,עַמֶּ֔ךָ,עַם,people,gente
+302959,Hab,3,13,לְ,לְ,to,a
+302960,Hab,3,13,יֵ֖שַׁע,יֵשַׁע,help,ayuda
+302961,Hab,3,13,אֶת־,אֵת,together with,Juntos con
+302962,Hab,3,13,מְשִׁיחֶ֑ךָ,מָשִׁיחַ,anointed,ungido
+302963,Hab,3,13,מָחַ֤צְתָּ,מחץ,break,descanso
+302964,Hab,3,13,רֹּאשׁ֙,רֹאשׁ,head,cabeza
+302965,Hab,3,13,מִ,מִן,from,de
+302966,Hab,3,13,בֵּ֣ית,בַּיִת,house,casa
+302967,Hab,3,13,רָשָׁ֔ע,רָשָׁע,guilty,culpable
+302968,Hab,3,13,עָרֹ֛ות,ערה,pour out,derramar
+302969,Hab,3,13,יְסֹ֥וד,יְסֹוד,foundation,Fundación
+302970,Hab,3,13,עַד־,עַד,unto,hasta
+302971,Hab,3,13,צַוָּ֖אר,צַוָּאר,neck,cuello
+302972,Hab,3,13,סֶֽלָה׃ פ,סֶלָה,sela,sela
+302973,Hab,3,14,נָקַ֤בְתָּ,נקב,bore,aburrir
+302974,Hab,3,14,בְ,בְּ,in,en
+302975,Hab,3,14,מַטָּיו֙,מַטֶּה,staff,personal
+302976,Hab,3,14,רֹ֣אשׁ,רֹאשׁ,head,cabeza
+302977,Hab,3,14,פְּרָזָ֔יו,פָּרָז,[uncertain],[incierto]
+302978,Hab,3,14,יִסְעֲר֖וּ,סער,be stormy,tormentosa
+302979,Hab,3,14,לַ,לְ,to,a
+302980,Hab,3,14,הֲפִיצֵ֑נִי,פוץ,disperse,dispersar
+302981,Hab,3,14,עֲלִ֣יצֻתָ֔ם,עֲלִיצֻת,presumption,presunción
+302982,Hab,3,14,כְּמֹו־,כְּמֹו,like,me gusta
+302983,Hab,3,14,לֶ,לְ,to,a
+302984,Hab,3,14,אֱכֹ֥ל,אכל,eat,comer
+302985,Hab,3,14,עָנִ֖י,עָנִי,humble,humilde
+302986,Hab,3,14,בַּ,בְּ,in,en
+302987,Hab,3,14,,הַ,the,el
+302988,Hab,3,14,מִּסְתָּֽר׃,מִסְתָּר,hiding-place,escondite
+302989,Hab,3,15,דָּרַ֥כְתָּ,דרך,tread,huella
+302990,Hab,3,15,בַ,בְּ,in,en
+302991,Hab,3,15,,הַ,the,el
+302992,Hab,3,15,יָּ֖ם,יָם,sea,mar
+302993,Hab,3,15,סוּסֶ֑יךָ,סוּס,horse,caballo
+302994,Hab,3,15,חֹ֖מֶר,חֹמֶר,clay,arcilla
+302995,Hab,3,15,מַ֥יִם,מַיִם,water,agua
+302996,Hab,3,15,רַבִּֽים׃,רַב,much,mucho
+302997,Hab,3,16,שָׁמַ֣עְתִּי׀,שׁמע,hear,oír
+302998,Hab,3,16,וַ,וְ,and,y
+302999,Hab,3,16,תִּרְגַּ֣ז,רגז,quake,terremoto
+303000,Hab,3,16,בִּטְנִ֗י,בֶּטֶן,belly,vientre
+303001,Hab,3,16,לְ,לְ,to,a
+303002,Hab,3,16,קֹול֙,קֹול,sound,sonar
+303003,Hab,3,16,צָלֲל֣וּ,צלל,tingle,hormigueo
+303004,Hab,3,16,שְׂפָתַ֔י,שָׂפָה,lip,labio
+303005,Hab,3,16,יָבֹ֥וא,בוא,come,ven
+303006,Hab,3,16,רָקָ֛ב,רָקָב,rottenness,podredumbre
+303007,Hab,3,16,בַּ,בְּ,in,en
+303008,Hab,3,16,עֲצָמַ֖י,עֶצֶם,bone,hueso
+303009,Hab,3,16,וְ,וְ,and,y
+303010,Hab,3,16,תַחְתַּ֣י,תַּחַת,under part,bajo la parte
+303011,Hab,3,16,אֶרְגָּ֑ז,רגז,quake,terremoto
+303012,Hab,3,16,אֲשֶׁ֤ר,אֲשֶׁר,[relative],[relativo]
+303013,Hab,3,16,אָנ֨וּחַ֙,נוח,lament,lamento
+303014,Hab,3,16,לְ,לְ,to,a
+303015,Hab,3,16,יֹ֣ום,יֹום,day,día
+303016,Hab,3,16,צָרָ֔ה,צָרָה,distress,angustia
+303017,Hab,3,16,לַ,לְ,to,a
+303018,Hab,3,16,עֲלֹ֖ות,עלה,ascend,ascender
+303019,Hab,3,16,לְ,לְ,to,a
+303020,Hab,3,16,עַ֥ם,עַם,people,gente
+303021,Hab,3,16,יְגוּדֶֽנּוּ׃,גוד,attack,ataque
+303022,Hab,3,17,כִּֽי־,כִּי,that,ese
+303023,Hab,3,17,תְאֵנָ֣ה,תְּאֵנָה,fig,higo
+303024,Hab,3,17,לֹֽא־,לֹא,not,no
+303025,Hab,3,17,תִפְרָ֗ח,פרח,sprout,brote
+303026,Hab,3,17,וְ,וְ,and,y
+303027,Hab,3,17,אֵ֤ין,אַיִן,[NEG],[NEG]
+303028,Hab,3,17,יְבוּל֙,יְבוּל,produce,Produce
+303029,Hab,3,17,בַּ,בְּ,in,en
+303030,Hab,3,17,,הַ,the,el
+303031,Hab,3,17,גְּפָנִ֔ים,גֶּפֶן,vine,vid
+303032,Hab,3,17,כִּחֵשׁ֙,כחשׁ,grow lean,creciendo magra
+303033,Hab,3,17,מַעֲשֵׂה־,מַעֲשֶׂה,deed,escritura
+303034,Hab,3,17,זַ֔יִת,זַיִת,olive,aceituna
+303035,Hab,3,17,וּ,וְ,and,y
+303036,Hab,3,17,שְׁדֵמֹ֖ות,שְׁדֵמָה,terrace,terraza
+303037,Hab,3,17,לֹא־,לֹא,not,no
+303038,Hab,3,17,עָ֣שָׂה,עשׂה,make,hacer
+303039,Hab,3,17,אֹ֑כֶל,אֹכֶל,food,comida
+303040,Hab,3,17,גָּזַ֤ר,גזר,cut,cortar
+303041,Hab,3,17,מִ,מִן,from,de
+303042,Hab,3,17,מִּכְלָה֙,מִכְלָא,enclosure,recinto
+303043,Hab,3,17,צֹ֔אן,צֹאן,cattle,ganado
+303044,Hab,3,17,וְ,וְ,and,y
+303045,Hab,3,17,אֵ֥ין,אַיִן,[NEG],[NEG]
+303046,Hab,3,17,בָּקָ֖ר,בָּקָר,cattle,ganado
+303047,Hab,3,17,בָּ,בְּ,in,en
+303048,Hab,3,17,,הַ,the,el
+303049,Hab,3,17,רְפָתִֽים׃,רֶפֶת,enclosure,recinto
+303050,Hab,3,18,וַ,וְ,and,y
+303051,Hab,3,18,אֲנִ֖י,אֲנִי,i,yo
+303052,Hab,3,18,בַּ,בְּ,in,en
+303053,Hab,3,18,יהוָ֣ה,יְהוָה,YHWH,YHWH
+303054,Hab,3,18,אֶעְלֹ֑וזָה,עלז,rejoice,alegrarse
+303055,Hab,3,18,אָגִ֖ילָה,גיל,rejoice,alegrarse
+303056,Hab,3,18,בֵּ,בְּ,in,en
+303057,Hab,3,18,אלֹהֵ֥י,אֱלֹהִים,god(s),gallinero)
+303058,Hab,3,18,יִשְׁעִֽי׃,יֵשַׁע,help,ayuda
+303059,Hab,3,19,יְהוִ֤ה,יְהוָה,YHWH,YHWH
+303060,Hab,3,19,אֲדֹנָי֙,אֲדֹנָי,Lord,Señor
+303061,Hab,3,19,חֵילִ֔י,חַיִל,power,poder
+303062,Hab,3,19,וַ,וְ,and,y
+303063,Hab,3,19,יָּ֤שֶׂם,שׂים,put,poner
+303064,Hab,3,19,רַגְלַי֙,רֶגֶל,foot,pie
+303065,Hab,3,19,כָּֽ,כְּ,as,como
+303066,Hab,3,19,,הַ,the,el
+303067,Hab,3,19,אַיָּלֹ֔ות,אַיָּלָה,doe,gama
+303068,Hab,3,19,וְ,וְ,and,y
+303069,Hab,3,19,עַ֥ל,עַל,upon,sobre
+303070,Hab,3,19,בָּמֹותַ֖י,בָּמָה,high place,lugar alto
+303071,Hab,3,19,יַדְרִכֵ֑נִי,דרך,tread,huella
+303072,Hab,3,19,לַ,לְ,to,a
+303073,Hab,3,19,,הַ,the,el
+303074,Hab,3,19,מְנַצֵּ֖חַ,נצח,prevail,prevalecer
+303075,Hab,3,19,בִּ,בְּ,in,en
+303076,Hab,3,19,נְגִינֹותָֽי׃,נְגִינָה,music,música
