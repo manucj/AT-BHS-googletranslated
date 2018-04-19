@@ -5,10 +5,10 @@ Interlineal de Antiguo testamento en https://logosklogos.com no están traducido
 Antiguo testamento de BHS(Biblia Hebraica Stuttgartensia) traducido a español usando google translate.
 
 # Cómo participar
-
+* Elija con un libro y baje el archivo correspondiente.(Avise con que libro va a empezar mandando mail a logosklogos@gmail.com  Esto es para que no trabajen 2 o más personas en un mismo libro.)
 * Hay que revisar palabra por palabra porque no están bien traducidas. Por Ej. los verbos no están conjugados.
+* Tener en cuenta que la traducción está hecha de ingles a español(no con la palabra en hebreo).
 * los archivos están en formato CSV(comma separated values).
-* Elija con un libro y baje el archivo correspondiente.
 * Pueden abrir en MS Office Excel o cualquier otro hoja de cálculo.
 * Sólo necesita modififcar la última columna.(La de gloss_SPA).
 * El libro de Génesis ya está terminado.
