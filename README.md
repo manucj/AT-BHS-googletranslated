@@ -4,6 +4,10 @@ Interlineal de Antiguo testamento en https://logosklogos.com no están traducido
 # AT-BHS-googletranslated
 Antiguo testamento de BHS(Biblia Hebraica Stuttgartensia) traducido a español usando google translate.
 
+# Libros terminados hasta ahora
+* Genesis
+* Números
+
 # Cómo participar
 * Elija con un libro y baje el archivo correspondiente.(Avise con que libro va a empezar mandando mail a logosklogos@gmail.com  Esto es para que no trabajen 2 o más personas en un mismo libro.)
 * Hay que revisar palabra por palabra porque no están bien traducidas. Por Ej. los verbos no están conjugados.
