@@ -14,6 +14,7 @@ Antiguo testamento de BHS(Biblia Hebraica Stuttgartensia) traducido a español u
 * Tener en cuenta que la traducción está hecha de ingles a español(no con la palabra en hebreo).
 * los archivos están en formato CSV(comma separated values).
 * Pueden abrir en MS Office Excel o cualquier otro hoja de cálculo.
+* Si tiene dificultad en abrir los archivos .csv en Excel, fijese este link(https://bit.ly/2kIfysW)
 * Sólo necesita modififcar la última columna.(La de gloss_SPA).
 * El libro de Génesis ya está terminado.
 * Ante cualquier duda, pueden tomar el ejemplo del libro Génisis en logosklogos.
